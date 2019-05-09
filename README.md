@@ -1,4 +1,4 @@
-# Smart-Search
+# Smart Search - Intelligent Search Engine.
 
 This project seeks to build a comprehensive and reliable search engine for the University of Illinois at Chicago using various Information Retrieval techniques and algorithms.
 
