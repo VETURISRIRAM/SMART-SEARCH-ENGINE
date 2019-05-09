@@ -23,6 +23,7 @@ The topics above and steps in building this project are discussed below. The aim
  
 You can either use the Search Engine right away or you can also build everything from scratch.
 
+Before everything, make sure you have unzipped the `./tf_idf_files/tf.zip` and `./tf_idf_files/tf-idf.zip`, and store the `tf.json` and `tf-idf.json` in the `./tf_idf_files/` directory.
 
 ## Use the Search Engine
 
@@ -35,7 +36,7 @@ python search_engine_web_app.py
 This command sets up the UI for the search engine where the user can enter the query and get results.
  
  
-## Build From Scratch
+## Build Everything From Scratch
 
 ### Data Collection - Crawling and Indexing
 
