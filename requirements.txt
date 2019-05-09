@@ -1,0 +1,6 @@
+bs4
+nltk
+numpy
+uuid
+flask
+pathlib
