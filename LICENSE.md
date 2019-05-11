@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2018 Sriram Veturi
+Copyright (c) 2018 Smart Search Engine - Sriram Veturi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
