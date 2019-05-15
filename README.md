@@ -29,6 +29,10 @@ Before everything, make sure you have unzipped the `./tf_idf_files/tf.zip` and `
 
 ## Use the Search Engine
 
+You can directly play with the Search Engine <a href="https://smart-search-19.herokuapp.com/">here<a>.
+  
+## Build Locally
+
 The user interface is developed using Flask and hosted on the localhost. 
 
 ```
